@@ -1,3 +1,6 @@
+<img src='images/picture03.jpg'> </img>
+<img src='images/picture04.jpg' width=100 height=100> </img>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=깃허브%20특강&fontSize=90)
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=aqwwee)](https://github.com/aqwwee)
